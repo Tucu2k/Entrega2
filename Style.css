@@ -22,6 +22,7 @@
     text-decoration: none;
     box-shadow: 0 3px 3px 0;
     transition: transform 0.3s ease;
+    font-weight: bold;
 }
 .navbar-main a:hover {
     transform: scale(1.1);
@@ -44,6 +45,7 @@
     text-decoration: none;
     box-shadow: 0 3px 3px 0;
     transition: transform 0.3s ease;
+    font-weight: bold;
 }
 .navbar-user a:hover {
     transform: scale(1.1);
