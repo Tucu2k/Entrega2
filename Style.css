@@ -1,5 +1,5 @@
 .navbar {
-    background-color: silver;
+    background-color: black;
     width: 100%;
     position: fixed;
     display: flex;
@@ -15,7 +15,8 @@
     padding: 15px;
 }
 .navbar-main a {
-    border: solid 1px snow;
+    background-color: snow;
+    border: solid 2px brown;
     border-radius: 15px;
     padding: 7px;
     color: black;
@@ -38,7 +39,8 @@
     padding: 15px;
 }
 .navbar-user a {
-    border: solid 1px snow;
+    background-color: snow;
+    border: solid 2px brown;
     border-radius: 15px;
     padding: 7px;
     color: black;
